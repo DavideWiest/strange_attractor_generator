@@ -1,0 +1,17 @@
+
+improve model
+
+
+optional:
+
+terminal version for trainingdataui
+
+INFO:
+
+colorEvaluator:
+Correlation: 0.5853321691577016
+Line equation: y = 1.576866312105587e-05 * x + 0.23264260261072714
+
+distanceEvaluator (dist^2)
+Correlation: 0.32728389504878624
+Line equation: y = 0.19847473380525887 * x + 0.25329199943267794

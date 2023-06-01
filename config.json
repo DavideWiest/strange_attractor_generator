@@ -1,0 +1,35 @@
+{
+    "model": {
+        "epochs": 10000,
+        "lr": 0.04,
+        "hidden_layers": 2,
+        "input_features": 3,
+        "output_features": 1,
+        "hidden_units": 3,
+        "save_each": 20,
+        "early_stop_epoch": 50,
+        "compare_saved_metric": "loss"
+    },
+    "model_extended": {
+        "epochs": 10000,
+        "lr": 0.04,
+        "hidden_layers": 2,
+        "input_features": 13,
+        "output_features": 1,
+        "hidden_units": 20,
+        "save_each": 20,
+        "early_stop_epoch": 50,
+        "compare_saved_metric": "loss"
+    },
+    "structure": {
+        "models_dir": "models",
+        "data_dir": "data",
+        "logs_dir": "logs"
+    },
+    "computation": {
+        "batch_size": 32
+    },
+    "hyparamoptim": {
+        "epochs": 5
+    }
+}

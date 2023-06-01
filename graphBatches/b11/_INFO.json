@@ -1,0 +1,10 @@
+{
+    "dim": 2,
+    "maxDegree": 2,
+    "graphNum": 500,
+    "pointsNum": 200,
+    "startingValues": [
+        0,
+        0
+    ]
+}
