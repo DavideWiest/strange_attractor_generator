@@ -1,6 +1,6 @@
 ## A project to analyze if a graph is a strange attractor
 
-**See `_seg` for examples of generated graphs.**
+**See `_sag/` for examples of generated graphs.**
 
 ### Works in 2d
 ##### run `generate.py`
